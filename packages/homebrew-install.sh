@@ -6,9 +6,6 @@ brew tap buo/cask-upgrade
 brew tap adoptopenjdk/openjdk
 brew tap homebrew/cask-versions
 
-#Shell
-brew install zsh
-
 #Binaries
 brew install speedtest-cli
 brew install git
@@ -50,24 +47,8 @@ brew install onedrive --no-quarantine
 
 #Mas
 
-#GoodNotes
-mas install 1444383602
-#KeyNote
-mas install 409183694
 #Magnet
 mas install 441258766
-#Excel
-mas install 462058435
-#Powerpoint
-mas install 462062816
-#RDP
-mas install 1295203466
-#Word
-mas install 462054704
-#Numbers
-mas install 409203825
-#Pages
-mas install 409201541
 #XCode
 mas install 497799835
 
